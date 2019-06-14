@@ -1,0 +1,3 @@
+http://wikipedia.org
+http://google.org
+http://amazon.com
